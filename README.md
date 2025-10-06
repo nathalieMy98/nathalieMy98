@@ -1,4 +1,4 @@
-<h1 align="center"> # 👋 Hallo, ich bin Nathalie! 🚀</h1>
+<h1 align="center"> 👋 Hallo, ich bin Nathalie! 🚀</h1>
 
 Ich mache aktuell meine Ausbildung zur **Fachinformatikerin für Anwendungsentwicklung** (3. Lehrjahr).  
 Ich entwickle innovative Softwarelösungen mit besonderem Fokus auf **Sicherheit** und **benutzerfreundlichem Design**, um moderne und ansprechende Anwendungen zu schaffen. 💻
