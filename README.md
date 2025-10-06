@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hallo, ich bin Nathalie! 🚀
 
-<!--
-**nathalieMy98/nathalieMy98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich mache aktuell meine Ausbildung zur **Fachinformatikerin für Anwendungsentwicklung** (3. Lehrjahr).  
+Ich entwickle innovative Softwarelösungen mit besonderem Fokus auf **Sicherheit** und **benutzerfreundlichem Design**, um moderne und ansprechende Anwendungen zu schaffen. 💻
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technische Fähigkeiten
+- **Programmiersprachen:** Java, JavaScript  
+- **Tools:** Git, GitHub, Visual Studio Code  
+- **Interessen:** IT-Security, UI/UX-Design, Webentwicklung, Automatisierung
+
+---
+
+### 📫 Kontakt
+- 💼 **LinkedIn:** https://www.linkedin.com/in/nathalie-m-603381285  
