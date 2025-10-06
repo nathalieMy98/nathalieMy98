@@ -13,4 +13,4 @@ Ich entwickle innovative Softwarelösungen mit besonderem Fokus auf **Sicherheit
 ---
 
 ### 📫 Kontakt
-- 💼 **LinkedIn:** [![LinkedIn](pfad-zur-datei/linkedin-logo.png)](https://www.linkedin.com/in/nathalie-m-603381285)  
+- 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathalie-m-603381285)  
